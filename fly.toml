@@ -4,7 +4,7 @@
 #
 
 
-app = 'swiftunwrapped.com'
+app = 'swiftunwrapped-com'
 primary_region = 'iad'
 
 [build]
