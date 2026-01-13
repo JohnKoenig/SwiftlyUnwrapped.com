@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <link rel="stylesheet" href="/style.css">
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+  <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+  <title>#import("title")</title>
+</head>
+
+<body>
+  <h1>#import("title")</h1>
+  <h2>#import("body")</h2>
+  <footer>
+    <p><a href="/">Happy Page</a></p>
+    <p><a href="/challenge">Challenge Page</a></p>
+    <p style="color:grey;">Timer App</p>
+    <p style="color:grey;">Gas Calculator</p>
+    <p><a href="/about">About</a></p>
+    <p><a href="https://www.johnkoenig.ninja">www.JohnKoenig.ninja</a></p>
+  </footer>
+</body>
+</html>
