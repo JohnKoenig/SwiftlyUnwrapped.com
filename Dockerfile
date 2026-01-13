@@ -1,7 +1,7 @@
 # ================================
 # Build image
 # ================================
-FROM swift:6.2.3 as builder
+FROM swift:6.0-noble as builder
 
 
 # Install OS updates
